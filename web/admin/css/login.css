@@ -1,0 +1,28 @@
+.div1 {
+    height: 100vh;
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div2 {
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input_name{
+    margin-bottom: 10px;
+}
+
+.input_pwd{
+    margin-bottom: 10px;
+}
+
+.button_login{
+    width: 80px;
+    text-align: center;
+}
